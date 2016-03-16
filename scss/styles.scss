@@ -1,3 +1,24 @@
-h1 {
-  color: red;
+body {
+  background: #ECF0F1;
+  color: #2C3E50;
+  .bikeText {
+    width: 90%;
+    margin: auto 100px;
+  }
+  button {
+    border: none;
+    color: white;
+    background-color: #c0cbff;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+  }
+}
+
+.showResult {
+  border: 1px dotted black;
+  margin: 50px 100px;
+  padding: 10px;
+  font-size: 2em;
+  width: 75%;
 }
